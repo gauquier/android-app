@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jonasdegauquier/Desktop/MovieDB/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jonasdegauquier/Desktop/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_712695f537fe6a5ca22012c2d927c88c706c43d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonasdegauquier/Desktop/MovieDB/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4065d45c7d5a25b8a0d6222339fd912dda8691b">
+        <dex dex="/Users/jonasdegauquier/Desktop/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3ad8634d291fb22a9677eea4126a86b921d1a1b5/classes.dex" />
+    </item>
+
+</items>
